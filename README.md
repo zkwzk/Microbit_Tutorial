@@ -1,5 +1,5 @@
 Micro:bit 趣味教程汇总
-这是一个 micro:bit 系列教程的汇总仓库，任何一篇教程中最终实现的 hex 文件都可以在这里下载
+这是一个 micro:bit 系列教程的汇总仓库，任何一篇教程中最终实现的 hex 文件都可以在这里下载，hex 文件请右键另存为
 
 1. [Micro:bit 初识](http://www.boydwang.com/2018/09/microbit-meet/)
 2. [Micro:bit 初遇--心跳的感觉](http://www.boydwang.com/2018/09/microbit-heartbeat/)
@@ -8,6 +8,11 @@ Micro:bit 趣味教程汇总
 4. [前导知识-输入与输出](http://www.boydwang.com/category/open-source-hardware/micro-bit/)
 5. [Micro:bit 模块的类型和流程控制](http://www.boydwang.com/2018/09/modules-and-flows/)
 6. [Micro:bit 模拟传球小程序](http://www.boydwang.com/2018/09/microbit-chuanqiu/)
+    + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/6-chuanqiu.hex) (请右键另存为)
 7. [Micro:bit 重力控制水平仪](http://www.boydwang.com/2018/09/microbit-gravity-control/)
+    + [敏捷版 hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/7-shuipingyi-minjie.hex)  (请右键另存为)
+    + [智障版 hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/7-shuipingyi-zhizhang.hex)  (请右键另存为)
+    + [优化版 hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/7-shuipingyi-youhua.hex)  (请右键另存为)
 8. [前导知识-从超级玛丽看游戏制作基本要素](http://www.boydwang.com/2018/09/game-element/)
 9. [Micro:bit 躲避砖块小游戏-基础部分](http://www.boydwang.com/2018/10/micro-bit-duobizhuankuai-basic/)
+    + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/9-duobi-jichu.hex) (请右键另存为)
