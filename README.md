@@ -16,5 +16,5 @@ Micro:bit 趣味教程汇总
 8. [前导知识-从超级玛丽看游戏制作基本要素](http://www.boydwang.com/2018/09/game-element/)
 9. [Micro:bit 躲避砖块小游戏-基础部分](http://www.boydwang.com/2018/10/micro-bit-duobizhuankuai-basic/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/9-duobi-jichu.hex) (请右键另存为)
-10. [Micro:bit 躲避砖块小游戏-附加功能]()
+10. [Micro:bit 躲避砖块小游戏-附加功能](http://www.boydwang.com/2018/11/micro-bit-duobizhuankuai-extra/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/10-duobi-fujia.hex)(请右键另存为)
