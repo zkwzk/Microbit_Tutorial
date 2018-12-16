@@ -1,5 +1,5 @@
 Micro:bit 趣味教程汇总
-这是一个 micro:bit 系列教程的汇总仓库，任何一篇教程中最终实现的 hex 文件都可以在这里下载，hex 文件请右键另存为
+这是一个 micro:bit 系列教程的汇总仓库，任何一篇教程中最终实现的 hex 文件都可以在这里下载，hex 文件请右键另存为, 关于什么是 hex 文件以及用法，请阅读 [Micro:bit 项目管理与 Hex 文件的使用](http://www.boydwang.com/2018/11/micro-bit-hex-files/)
 
 0. [Micro:bit 项目管理与 Hex 文件的使用](http://www.boydwang.com/2018/11/micro-bit-hex-files/)
 1. [Micro:bit 初识](http://www.boydwang.com/2018/09/microbit-meet/)
