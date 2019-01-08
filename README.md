@@ -23,3 +23,4 @@ Micro:bit 趣味教程汇总
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/11-duobi-tiaocan.hex)(请右键另存为)
 12. [Micro:bit 呼吸灯](http://www.boydwang.com/2018/12/microbit-huxideng/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/12-huxideng-simple.hex)(请右键另存为)
+13. [前导知识-数组(一)](http://www.boydwang.com/2019/01/array-part-one/)
