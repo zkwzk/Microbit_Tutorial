@@ -25,4 +25,4 @@ Micro:bit 趣味教程汇总
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/12-huxideng-simple.hex)(请右键另存为)
 13. [前导知识-数组(一)](http://www.boydwang.com/2019/01/array-part-one/)
 14. [前导知识-数组(二)](http://www.boydwang.com/2019/01/array-part-two/)
-15. [前导知识-数组(三)](http://www.boydwang.com/2019/01/array-part-three/）
+15. [前导知识-数组(三)](http://www.boydwang.com/2019/01/array-part-three/)
