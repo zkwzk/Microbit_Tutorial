@@ -28,3 +28,4 @@ Micro:bit 趣味教程汇总
 15. [前导知识-数组(三)](http://www.boydwang.com/2019/01/array-part-three/)
 16. [前导知识-数组(四)](http://www.boydwang.com/2019/01/array-part-four/)
 17. [Micro:bit 程序调试技巧](https://www.boydwang.com/2019/02/microbit-debug/)
+18. [前导知识-函数](https://www.boydwang.com/2019/03/han-shu/)
