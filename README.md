@@ -30,3 +30,4 @@ Micro:bit 趣味教程汇总
 17. [Micro:bit 程序调试技巧](https://www.boydwang.com/2019/02/microbit-debug/)
 18. [前导知识-函数](https://www.boydwang.com/2019/03/han-shu/)
 19. [Micro:bit Flappy Bird 小游戏(一)](https://www.boydwang.com/2019/06/microbit-flappy-bird-1/)
+20. [Micro:bit Flappy Bird 小游戏(二)](https://www.boydwang.com/2019/06/microbit-flappy-bird-2/)
