@@ -33,3 +33,5 @@ Micro:bit 趣味教程汇总
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/19-tiaoyue.hex) (请右键另存为)
 20. [Micro:bit Flappy Bird 小游戏(二)](https://www.boydwang.com/2019/06/microbit-flappy-bird-2/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/20-yidong.hex) (请右键另存为)
+21. [Micro:bit Flappy Bird 小游戏(三)](https://www.boydwang.com/2019/07/microbit-flappy-bird-3/)
+    + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/21-wanzheng-fennudexiaoniao.hex) (请右键另存为)
