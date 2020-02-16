@@ -47,3 +47,4 @@ Micro:bit 趣味教程汇总
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/26-xo-3.hex)(请右键 链接另存为)
 27. [Micro:bit 石头剪刀布小游戏](https://www.boydwang.com/2020/01/tu-xing-hua-bian-chengmicrobit-shi-tou-jian-dao-bu/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/27-Rock-Paper-Scissors.hex)(请右键 链接另存为)
+28. [Micro:bit 龟龟扩展库介绍](https://www.boydwang.com/2020/02/microbit-turtle-library/)
