@@ -39,7 +39,7 @@ Micro:bit 趣味教程汇总
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/22-xo-1.hex)(请右键 链接另存为)
 23. [Micro:bit 按钮魔术](https://www.boydwang.com/2019/11/microbit-button-magic/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/23-anniumoshu.hex)(请右键 链接另存为)
-24. [Micro:bit 井字棋游戏（二）](https://www.boydwang.com/2019/11/microbit-jing-zi-qi-2/)
+24. [Micro:bit 井字棋游戏（二）](https://www.boydwang.com/2019/12/microbit-jing-zi-qi-2/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/24-xo-2.hex)(请右键 链接另存为)
 25. [Micro:bit 考验反应力小游戏](https://www.boydwang.com/2020/01/microbit-kao-yan-fan-ying-li/)
     + [hex 文件](https://raw.githubusercontent.com/ZhengkunWang/Microbit_Tutorial/master/hex_files/25-fanyingdakaoyan.hex)(请右键 链接另存为)
